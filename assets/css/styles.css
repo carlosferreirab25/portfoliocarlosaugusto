@@ -510,23 +510,23 @@ img{
 }
 
 .skills__laravel{
-    width: 100%;
+    width: 80%;
 }
 
 .skills__django{
-    width: 90%;
+    width: 75%;
 }
 
 .skills__php{
-    width: 100%;
+    width: 70%;
 }
 
 .skills__typescript{
-    width: 95%;
+    width: 80%;
 }
 
 .skills__react{
-    width: 85%;
+    width: 80%;
 }
 
 .skills__material{
